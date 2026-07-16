@@ -14,7 +14,8 @@ body{
 }
 
 .solar_system{
-    transform: scale(1);
+    transform: scale(3);
+    transform-origin: top-left;
     background-color: #000000;
     position: relative;
     width: 100vw;
